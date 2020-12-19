@@ -31,9 +31,9 @@ My current personal projects are:
 I mainly contribute to various projects that I hold an interest in, or to which I just feel like contributing.
 Some I contribute to regularly, others every once in a while.
 
-Projects that hold my interest are in my pins, and also include (because there isn't enough space in pins):
+The main projects that hold my interest are in my pins, and also include these three (because there isn't enough space in pins):
 - https://github.com/sky-map-team/stardroid
 - https://github.com/TwidereProject/TwidereX-Android
 - https://github.com/K1rakishou/Kuroba-Experimental
 
-...and [more](https://github.com/TacoTheDank/TacoTheDank/blob/main/README-CONTINUED.md)!
+Here's [more projects](https://github.com/TacoTheDank/TacoTheDank/blob/main/README-CONTINUED.md) that hold my interest to a lesser degree.
