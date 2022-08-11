@@ -1,31 +1,29 @@
-### Hello! You're visitor number <img src="https://visitor-badge.glitch.me/badge?page_id=TacoTheDank.visitor-badge&color=d391e2" />. Thanks for checking me out, even if you didn't mean to :)
+### Hello! You're visitor number <img src="https://visitor-badge.glitch.me/badge?page_id=TacoTheDank.visitor-badge&color=2986CC" />.
 
-#### Long live open-source!
+Thanks for checking me out, even if you didn't mean to :)
 
-💕 ViewPager2 is bae 💕
+--------------------
 
-I'm obsessed with keeping stuff up-to-date (if you couldn't tell from my repetitive commits).
+### Long live open-source!
 
-My current personal projects are:
-- https://gitlab.com/TacoTheDank/APKMirror (Android app client for APKMirror)
-- https://github.com/TacoTheDank/Scoop (Catches a stack trace when an app crashes unexpectedly)
-- https://github.com/TacoTheDank/text_converter (An app that converts text to all sorts of stuff)
+I like keeping stuff up-to-date.
 
-Yeah, they're forks, but one day I'll write some apps of my own ;)
+My primary interest is in Android and Android-related open-source projects.
+I mostly contribute to various projects that interest me, or to which I just feel like contributing.
+Usually that's because I see something that I think can be improved, and then I try to improve it.
 
-I mainly contribute to various projects that interest me, or to which I just feel like contributing.
-Some I contribute to regularly, others every once in a while.
+My main focuses are usually on NewPipe ([@TeamNewPipe](https://github.com/TeamNewPipe)) and AntennaPod.
 
-The main projects I like to be involved in (in one way or another) are pinned, and also include these five (because there aren't enough slots in pins):
-- https://github.com/sky-map-team/stardroid
-- https://github.com/TwidereProject/TwidereX-Android
-- https://github.com/K1rakishou/Kuroba-Experimental
-- https://github.com/SkyTubeTeam/SkyTube
-- https://github.com/YTVanced/VancedManager (come join the Vanced discord! :^))
+Here are my stats (because why not):
 
-Here's some [more projects](https://github.com/TacoTheDank/TacoTheDank/blob/main/README-CONTINUED.md) that I also like to dry my eyes out staring at.
-
-If you read all this... thank you c:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=TacoTheDank&count_private=true&show_icons=true&hide_border=true&bg_color=111111&text_color=c0c0c0" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TacoTheDank&hide=aidl&hide_border=true&layout=compact&bg_color=111111&text_color=c0c0c0" />
+  <br>
+  <br>
+</a>
 
 <!--
 **TacoTheDank/TacoTheDank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
