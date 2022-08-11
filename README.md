@@ -14,6 +14,10 @@ Usually that's because I see something that I think can be improved, and then I 
 
 My main focuses are usually on NewPipe ([@TeamNewPipe](https://github.com/TeamNewPipe)) and AntennaPod.
 
+I also work on and maintain [Scoop](https://github.com/TacoTheDank/Scoop), which is an Android app that catches stacktraces.
+
+Check them out in my pins!
+
 Here are my stats (because why not):
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
